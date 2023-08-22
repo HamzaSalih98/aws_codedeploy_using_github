@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo systemctl service apache2 start
+sudo systemctl status apache2
